@@ -7,10 +7,10 @@ A common task we are dealing with is generating multiple features from data acco
 
 Write a program that receives a file with features (*.csv), and a dictionary with information on windows for rolling window operations.
 
-an example for the Dictionary: keys will always be the same but the windows might change
-{“Average”: [ 200, 300],
- “Standard_deviation”: [ 100, 300],
-“Exponential_average”: [ 500,700]
+an example for the Dictionary: keys will always be the same but the windows might change\
+{“Average”: [ 200, 300],\
+ “Standard_deviation”: [ 100, 300],\
+“Exponential_average”: [ 500,700]]
 }
 
 
