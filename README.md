@@ -15,7 +15,7 @@ an example for the Dictionary: keys will always be the same but the windows migh
 }
 
 
-Your task is to create these features for the data in the csv file, and returns a *.csv file with original and new features.
+Your task is to write a job that create these features for the data in the csv file, and returns a *.csv file with original and new features. The job should be dockerized and instructions on how to run the job should be clearly given.
 
 ** If you need to make a decision regarding implementation please make the call and write why you made the decision you made.
 
